@@ -14,7 +14,7 @@ image:
 			<th>Assignments</th>
 		</tr>
 		<tr>
-		<td>Feb 5</td>
+			<td>Feb 5</td>
 			<td>
 			Course presentation<br>
 			1.1 History of ML<br>
@@ -26,7 +26,8 @@ image:
 			</td>
 			<td>
 			</td>
-		</tr>			
+		</tr>
+		<tr>			
 			<td>Feb 12</td>
 			<td>1.2 The learning problem</td>
 			<td>
@@ -174,8 +175,7 @@ image:
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
 			</td>
 			<td>
-				<a href= "problems8.pdf">Practice problems 8</a>
-				<a href= "problems9.pdf">Practice problems 9</a><br>
+				<a href= "problems8.pdf">Practice problems 8</a><br>
 				<!-- <a href= "assign3.pdf">Assignment 3</a><br> -->
 			</td>
 		</tr>
@@ -229,7 +229,7 @@ image:
 			<td>
 			</td>
 			<td>
-				<a href= "project.pdf">Final project</a>
+				<!-- <a href= "project.pdf">Final project</a> -->
 			</td>
 		</tr>
 	</tbody>
