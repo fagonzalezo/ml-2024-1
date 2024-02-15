@@ -7,7 +7,7 @@ image:
 ---
 
 ### Instructor
-[Fabio A. González](http://dis.unal.edu.co/~fgonza/)  
+[Fabio A. González](https://fagonzalezo.github.io/)  
 *Profesor Titular*  
 *Depto de Ingeniería de Sistemas e Industrial*  
 *Universidad Nacional de Colombia*
