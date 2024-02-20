@@ -11,6 +11,8 @@ image:
 
 * [Alp14] Alpaydin, E. [Introduction to Machine Learning](https://faculty.ozyegin.edu.tr/ethemalpaydin/books/), 3Ed. The MIT Press, 2014
 * [Mur12] Murphy, Kevin P. [Machine learning: a probabilistic perspective](http://www.cs.ubc.ca/~murphyk/MLbook/). The MIT Press, 2012. 
+* [Sha14] Shalev-Shwartz, S., & Ben-David, S. (2014). [Understanding machine learning: From theory to algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf). Cambridge university press.
+* [Dei20] Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020). [Mathematics for machine learning](https://mml-book.github.io/). Cambridge University Press.
 * [Bar13] Barber, David, [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage), Cambridge University Press, 2013.
 * [Bis06] Bishop, C.  [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/). Springer-Verlag, 2006
 * [HTF09] Hastie, T. and Tibshirani, R. and Friedman.  [The elements of statistical learning: data mining, inference, and prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/), Springer, 2009

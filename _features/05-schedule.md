@@ -46,6 +46,7 @@ image:
 			<td>
 				<strong>Synchronous Class:</strong><br>
 				<strong>Reading material and resources</strong><br>
+				[Dei20] Chap 8 (<a href= "https://mml-book.github.io">book</a>)<br>
 				[Alp14] Chap 1 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap1.pdf">slides</a>)<br>
 			</td>
 			<td>
