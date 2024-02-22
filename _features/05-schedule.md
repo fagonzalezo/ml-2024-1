@@ -32,7 +32,7 @@ image:
 			<td>1.2 The learning problem</td>
 			<td>
 				<strong>Synchronous Class:</strong><br> 
-				Different approaches to solve a classification problem (<a href= "https://drive.google.com/file/d/1_gIoehpP9Vuh_Qb5_F34j3H7CkqPn6h1/view?usp=sharing">video</a>, <a href= "TheLearningProblem.pdf">slides</a>)<br>
+				Different approaches to solve a classification problem (<a href= "https://drive.google.com/file/d/1_gIoehpP9Vuh_Qb5_F34j3H7CkqPn6h1/view?usp=sharing">video</a>, <a href= "https://drive.google.com/file/d/11Qeire-X3UKdi4BMuNA4nhZUbivNNucj/view?usp=sharing">notebook</a>)<br>
 				<strong>Reading material and resources</strong><br>
 				[Alp14] Chap 1 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap1.pdf">slides</a>)<br>
 			</td>
@@ -45,7 +45,7 @@ image:
 			<td>1.2 The learning problem</td>
 			<td>
 				<strong>Synchronous Class:</strong><br>
-				The learning problem (<a href= "https://drive.google.com/file/d/1Owyjre8esB8kG903Zk7LrCnRIM9aW2kz/view?usp=sharing">video</a>, <a href= "https://drive.google.com/file/d/11Qeire-X3UKdi4BMuNA4nhZUbivNNucj/view?usp=sharing">notebook</a>)<br>
+				The learning problem (<a href= "https://drive.google.com/file/d/1Owyjre8esB8kG903Zk7LrCnRIM9aW2kz/view?usp=sharing">video</a>,  <a href= "The Learning Problem.pdf">slides</a>)<br>
 				<strong>Reading material and resources</strong><br>
 				[Dei20] Chap 8 (<a href= "https://mml-book.github.io">book</a>)<br>
 				[Alp14] Chap 1 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap1.pdf">slides</a>)<br>
