@@ -67,7 +67,7 @@ image:
 				Additional video: Hypothesis testing (<a href= "https://drive.google.com/file/d/1TKRL34XTRSx2d6kFcVyacGb01eSJrdiX/view?t=57">video</a>)
 			</td>
 			<td>
-				<!-- <a href= "assign1.pdf">Assignment 1</a> -->
+				<a href= "problems2.5.pdf">Practice problems 2.5</a><br>
 			</td>
 		</tr>
 		<tr>
