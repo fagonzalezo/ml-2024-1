@@ -61,7 +61,7 @@ image:
 			<td>
 				<strong>Asynchronous class</strong><br>
 				Introduction (<a href= "https://drive.google.com/file/d/1TJmhKEijXlM5b4JndiJl8xFUjgSW1wDF/view?usp=drive_link">video</a> 2m)<br>
-				Algorithm preference (<a href= https://drive.google.com/file/d/1oOk5MQkHn32EjXCkalcpMaNsQrbwK2Dg/view?usp=drive_link">video</a> 8m)<br>
+				Algorithm preference (<a href="https://drive.google.com/file/d/1oOk5MQkHn32EjXCkalcpMaNsQrbwK2Dg/view?usp=drive_link">video</a> 8m)<br>
 				Factors and response (<a href= "https://drive.google.com/file/d/1p5hJFJ-cH8IuD5bozZubYpQKWdzgyFNx/view?usp=drive_link">video</a> 6.5m)<br>
 				Strategies of experimentation (<a href= "https://drive.google.com/file/d/1Sjlk2Xzb8FwZjx1eonIxK9rI6tX-xCGM/view?usp=drive_link">video</a> 12m)<br>
 				ML experiments (<a href= "https://drive.google.com/file/d/1iAA74lK3blf_fkyTwulBTxP0AqYovAFG/view?usp=drive_link">video</a> 2m)<br>
