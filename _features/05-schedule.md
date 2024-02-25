@@ -60,8 +60,15 @@ image:
 			<td>1.3 Design and analysis of ML experiments</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
-				(<a href= "https://drive.google.com/file/d/1fS3b65nWyouvrv1nAULMwiXV8ZLUuAfY/view?t=46">video 1</a>)
-				(<a href= "https://drive.google.com/file/d/1rroI1opT9lTSRoFBDW6Gmxpvl3Z75EUc/view?t=35">video 2</a>)<br>
+				Introduction (<a href= "https://drive.google.com/file/d/1TJmhKEijXlM5b4JndiJl8xFUjgSW1wDF/view?usp=drive_link">video</a> 2m)<br>
+				Algorithm preference (<a href= https://drive.google.com/file/d/1oOk5MQkHn32EjXCkalcpMaNsQrbwK2Dg/view?usp=drive_link">video</a> 8m)<br>
+				Factors and response (<a href= "https://drive.google.com/file/d/1p5hJFJ-cH8IuD5bozZubYpQKWdzgyFNx/view?usp=drive_link">video</a> 6.5m)<br>
+				Strategies of experimentation (<a href= "https://drive.google.com/file/d/1Sjlk2Xzb8FwZjx1eonIxK9rI6tX-xCGM/view?usp=drive_link">video</a> 12m)<br>
+				ML experiments (<a href= "https://drive.google.com/file/d/1iAA74lK3blf_fkyTwulBTxP0AqYovAFG/view?usp=drive_link">video</a> 2m)<br>
+				Cross-validation (<a href= "https://drive.google.com/file/d/1uRGeyjDDEhBfCDjDHdRjHyWIQNr3-CEb/view?usp=drive_link">video</a> 18.5m)<br>
+				Bootstrapping (<a href= "https://drive.google.com/file/d/1dxONR6VjQwSE4AfpRF9CSzk6grV3iyI7/view?usp=drive_link">video</a> 15m)<br>
+				Performance measures (<a href= "https://drive.google.com/file/d/1EmzFCQFoYo_h1u1erGX7UxwcZb_Jy5DL/view?usp=drive_link">video</a> 9m)<br>
+				Second part (<a href= "https://drive.google.com/file/d/1rroI1opT9lTSRoFBDW6Gmxpvl3Z75EUc/view?t=35">video</a>)<br>
 				<strong>Reading material and resources</strong><br>
 				[Alp14] Chap 19 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap19.pdf">slides</a>) <br>
 				Additional video: Hypothesis testing (<a href= "https://drive.google.com/file/d/1TKRL34XTRSx2d6kFcVyacGb01eSJrdiX/view?t=57">video</a>)
