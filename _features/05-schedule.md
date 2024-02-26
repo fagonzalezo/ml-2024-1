@@ -77,7 +77,7 @@ image:
 				- Binomial tests (<a href= "https://drive.google.com/file/d/1rugJyAf-BDzkerRMvBZa-s7oCFDbvMwy/view?usp=drive_link">video</a> 2m)<br>
 				- Normal approximation (<a href= "https://drive.google.com/file/d/1PaFg35YCpl5qehj-ccrnIYgC3yhWwnln/view?usp=drive_link">video</a> 1m)<br>
 				- Paired t-test (<a href= "https://drive.google.com/file/d/1ddu4GFZRcQto7Lm0jIqu5wFLk6kUe1WH/view?usp=drive_link">video</a> 3m)<br>
-				- McNemar's test (<a href= "https://drive.google.com/file/d/1GI_B-zxtX8PH3G7ouXwCUmNWxiSXEi-t/view?usp=sharing">video</a 3.5m)<br>
+				- McNemar's test (<a href= "https://drive.google.com/file/d/1GI_B-zxtX8PH3G7ouXwCUmNWxiSXEi-t/view?usp=sharing">video</a> 3.5m)<br>
 				- K-fold CV paired t-test (<a href= "https://drive.google.com/file/d/1GPHGwvAZ-buyNsGQkTVwE6_la8Ss9EkK/view?usp=drive_link">video</a> 3m)<br>
 				- Anova  (<a href= "https://drive.google.com/file/d/1ZGLrN-MQLXKTElIovdak0Rnp-9aRm3D0/view?usp=drive_link">video</a> 13.5m)<br>
 				- Post-hoc tests (<a href= "https://drive.google.com/file/d/1-OJsNnIcM9I5GuQ4PiKUXLDirIV0yMpH/view?usp=sharing">video</a> 9m)<br>
