@@ -60,27 +60,27 @@ image:
 			<td>1.3 Design and analysis of ML experiments</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
-				-Introduction (<a href= "https://drive.google.com/file/d/1TJmhKEijXlM5b4JndiJl8xFUjgSW1wDF/view?usp=drive_link">video</a> 2m)<br>
-				-Algorithm preference (<a href="https://drive.google.com/file/d/1oOk5MQkHn32EjXCkalcpMaNsQrbwK2Dg/view?usp=drive_link">video</a> 8m)<br>
-				-Factors and response (<a href= "https://drive.google.com/file/d/1p5hJFJ-cH8IuD5bozZubYpQKWdzgyFNx/view?usp=drive_link">video</a> 6.5m)<br>
-				-Strategies of experimentation (<a href= "https://drive.google.com/file/d/1Sjlk2Xzb8FwZjx1eonIxK9rI6tX-xCGM/view?usp=drive_link">video</a> 12m)<br>
-				-ML experiments (<a href= "https://drive.google.com/file/d/1iAA74lK3blf_fkyTwulBTxP0AqYovAFG/view?usp=drive_link">video</a> 2m)<br>
-				-Cross-validation (<a href= "https://drive.google.com/file/d/1uRGeyjDDEhBfCDjDHdRjHyWIQNr3-CEb/view?usp=drive_link">video</a> 18.5m)<br>
-				-Bootstrapping (<a href= "https://drive.google.com/file/d/1dxONR6VjQwSE4AfpRF9CSzk6grV3iyI7/view?usp=drive_link">video</a> 15m)<br>
-				-Performance measures (<a href= "https://drive.google.com/file/d/1EmzFCQFoYo_h1u1erGX7UxwcZb_Jy5DL/view?usp=drive_link">video</a> 9m)<br>
-				-ROC curve (<a href= "https://drive.google.com/file/d/1QuvxrKJ2OKp0H-2UEXVH-HpmdINxGm_k/view?usp=drive_link">video</a> 24m)<br>
-				-Precision and recall (<a href= "https://drive.google.com/file/d/1TzIVXYAb5t__TRlrLa2lChbe2IhjaeE7/view?usp=drive_link">video</a> 10m)<br>
-				-Interval estimation (<a href= "https://drive.google.com/file/d/1GXNklOo3K898CHTLBRNyGaGjPHiXbg8x/view?usp=drive_link">video</a> 14m)<br>
-				-Hypothesis testing (<a href= "https://drive.google.com/file/d/16IkOIw4dT5cfzrXUR6RqZXRVfXd7Lb2O/view?usp=drive_link">video</a> 23.5m)<br>
-				-Error types (<a href= "https://drive.google.com/file/d/16M8uvffsPSWadmQcbkTynreUGGl13SUD/view?usp=drive_link">video</a> 8.5,)<br>
-				-Statistics (<a href= "https://drive.google.com/file/d/15RedoU1S3m5g_38w9u0ip7jLcUYZlKED/view?usp=drive_link">video</a> 2m)<br>
-				-Binomial tests (<a href= "https://drive.google.com/file/d/1rugJyAf-BDzkerRMvBZa-s7oCFDbvMwy/view?usp=drive_link">video</a> 2m)<br>
-				-Normal approximation (<a href= "https://drive.google.com/file/d/1PaFg35YCpl5qehj-ccrnIYgC3yhWwnln/view?usp=drive_link">video</a> 1m)<br>
-				-Paired t-test (<a href= "https://drive.google.com/file/d/1ddu4GFZRcQto7Lm0jIqu5wFLk6kUe1WH/view?usp=drive_link">video</a> 3m)<br>
-				-McNemar's test (<a href= "https://drive.google.com/file/d/1GI_B-zxtX8PH3G7ouXwCUmNWxiSXEi-t/view?usp=sharing">video</a>3.5m)<br>
-				-K-fold CV paired t-test (<a href= "https://drive.google.com/file/d/1GPHGwvAZ-buyNsGQkTVwE6_la8Ss9EkK/view?usp=drive_link">video</a> 3m)<br>
-				-Anova  (<a href= "https://drive.google.com/file/d/1ZGLrN-MQLXKTElIovdak0Rnp-9aRm3D0/view?usp=drive_link">video</a> 13.5m)<br>
-				-Post-hoc tests (<a href= "https://drive.google.com/file/d/1-OJsNnIcM9I5GuQ4PiKUXLDirIV0yMpH/view?usp=sharing">video</a> 9m)<br>
+				- Introduction (<a href= "https://drive.google.com/file/d/1TJmhKEijXlM5b4JndiJl8xFUjgSW1wDF/view?usp=drive_link">video</a> 2m)<br>
+				- Algorithm preference (<a href="https://drive.google.com/file/d/1oOk5MQkHn32EjXCkalcpMaNsQrbwK2Dg/view?usp=drive_link">video</a> 8m)<br>
+				- Factors and response (<a href= "https://drive.google.com/file/d/1p5hJFJ-cH8IuD5bozZubYpQKWdzgyFNx/view?usp=drive_link">video</a> 6.5m)<br>
+				- Strategies of experimentation (<a href= "https://drive.google.com/file/d/1Sjlk2Xzb8FwZjx1eonIxK9rI6tX-xCGM/view?usp=drive_link">video</a> 12m)<br>
+				- ML experiments (<a href= "https://drive.google.com/file/d/1iAA74lK3blf_fkyTwulBTxP0AqYovAFG/view?usp=drive_link">video</a> 2m)<br>
+				- Cross-validation (<a href= "https://drive.google.com/file/d/1uRGeyjDDEhBfCDjDHdRjHyWIQNr3-CEb/view?usp=drive_link">video</a> 18.5m)<br>
+				- Bootstrapping (<a href= "https://drive.google.com/file/d/1dxONR6VjQwSE4AfpRF9CSzk6grV3iyI7/view?usp=drive_link">video</a> 15m)<br>
+				- Performance measures (<a href= "https://drive.google.com/file/d/1EmzFCQFoYo_h1u1erGX7UxwcZb_Jy5DL/view?usp=drive_link">video</a> 9m)<br>
+				- ROC curve (<a href= "https://drive.google.com/file/d/1QuvxrKJ2OKp0H-2UEXVH-HpmdINxGm_k/view?usp=drive_link">video</a> 24m)<br>
+				- Precision and recall (<a href= "https://drive.google.com/file/d/1TzIVXYAb5t__TRlrLa2lChbe2IhjaeE7/view?usp=drive_link">video</a> 10m)<br>
+				- Interval estimation (<a href= "https://drive.google.com/file/d/1GXNklOo3K898CHTLBRNyGaGjPHiXbg8x/view?usp=drive_link">video</a> 14m)<br>
+				- Hypothesis testing (<a href= "https://drive.google.com/file/d/16IkOIw4dT5cfzrXUR6RqZXRVfXd7Lb2O/view?usp=drive_link">video</a> 23.5m)<br>
+				- Error types (<a href= "https://drive.google.com/file/d/16M8uvffsPSWadmQcbkTynreUGGl13SUD/view?usp=drive_link">video</a> 8.5m)<br>
+				- Statistics (<a href= "https://drive.google.com/file/d/15RedoU1S3m5g_38w9u0ip7jLcUYZlKED/view?usp=drive_link">video</a> 2m)<br>
+				- Binomial tests (<a href= "https://drive.google.com/file/d/1rugJyAf-BDzkerRMvBZa-s7oCFDbvMwy/view?usp=drive_link">video</a> 2m)<br>
+				- Normal approximation (<a href= "https://drive.google.com/file/d/1PaFg35YCpl5qehj-ccrnIYgC3yhWwnln/view?usp=drive_link">video</a> 1m)<br>
+				- Paired t-test (<a href= "https://drive.google.com/file/d/1ddu4GFZRcQto7Lm0jIqu5wFLk6kUe1WH/view?usp=drive_link">video</a> 3m)<br>
+				- McNemar's test (<a href= "https://drive.google.com/file/d/1GI_B-zxtX8PH3G7ouXwCUmNWxiSXEi-t/view?usp=sharing">video</a 3.5m)<br>
+				- K-fold CV paired t-test (<a href= "https://drive.google.com/file/d/1GPHGwvAZ-buyNsGQkTVwE6_la8Ss9EkK/view?usp=drive_link">video</a> 3m)<br>
+				- Anova  (<a href= "https://drive.google.com/file/d/1ZGLrN-MQLXKTElIovdak0Rnp-9aRm3D0/view?usp=drive_link">video</a> 13.5m)<br>
+				- Post-hoc tests (<a href= "https://drive.google.com/file/d/1-OJsNnIcM9I5GuQ4PiKUXLDirIV0yMpH/view?usp=sharing">video</a> 9m)<br>
 				<strong>Reading material and resources</strong><br>
 				[Alp14] Chap 19 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap19.pdf">slides</a>) <br>
 			</td>
