@@ -60,27 +60,27 @@ image:
 			<td>1.3 Design and analysis of ML experiments</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
-				- Introduction (<a href= "https://drive.google.com/file/d/1TJmhKEijXlM5b4JndiJl8xFUjgSW1wDF/view?usp=drive_link">video</a> 2m)<br>
-				- Algorithm preference (<a href="https://drive.google.com/file/d/1oOk5MQkHn32EjXCkalcpMaNsQrbwK2Dg/view?usp=drive_link">video</a> 8m)<br>
-				- Factors and response (<a href= "https://drive.google.com/file/d/1p5hJFJ-cH8IuD5bozZubYpQKWdzgyFNx/view?usp=drive_link">video</a> 6.5m)<br>
-				- Strategies of experimentation (<a href= "https://drive.google.com/file/d/1Sjlk2Xzb8FwZjx1eonIxK9rI6tX-xCGM/view?usp=drive_link">video</a> 12m)<br>
-				- ML experiments (<a href= "https://drive.google.com/file/d/1iAA74lK3blf_fkyTwulBTxP0AqYovAFG/view?usp=drive_link">video</a> 2m)<br>
-				- Cross-validation (<a href= "https://drive.google.com/file/d/1uRGeyjDDEhBfCDjDHdRjHyWIQNr3-CEb/view?usp=drive_link">video</a> 18.5m)<br>
-				- Bootstrapping (<a href= "https://drive.google.com/file/d/1dxONR6VjQwSE4AfpRF9CSzk6grV3iyI7/view?usp=drive_link">video</a> 15m)<br>
-				- Performance measures (<a href= "https://drive.google.com/file/d/1EmzFCQFoYo_h1u1erGX7UxwcZb_Jy5DL/view?usp=drive_link">video</a> 9m)<br>
-				- ROC curve (<a href= "https://drive.google.com/file/d/1QuvxrKJ2OKp0H-2UEXVH-HpmdINxGm_k/view?usp=drive_link">video</a> 24m)<br>
-				- Precision and recall (<a href= "https://drive.google.com/file/d/1TzIVXYAb5t__TRlrLa2lChbe2IhjaeE7/view?usp=drive_link">video</a> 10m)<br>
-				- Interval estimation (<a href= "https://drive.google.com/file/d/1GXNklOo3K898CHTLBRNyGaGjPHiXbg8x/view?usp=drive_link">video</a> 14m)<br>
-				- Hypothesis testing (<a href= "https://drive.google.com/file/d/16IkOIw4dT5cfzrXUR6RqZXRVfXd7Lb2O/view?usp=drive_link">video</a> 23.5m)<br>
-				- Error types (<a href= "https://drive.google.com/file/d/16M8uvffsPSWadmQcbkTynreUGGl13SUD/view?usp=drive_link">video</a> 8.5m)<br>
-				- Statistics (<a href= "https://drive.google.com/file/d/15RedoU1S3m5g_38w9u0ip7jLcUYZlKED/view?usp=drive_link">video</a> 2m)<br>
-				- Binomial tests (<a href= "https://drive.google.com/file/d/1rugJyAf-BDzkerRMvBZa-s7oCFDbvMwy/view?usp=drive_link">video</a> 2m)<br>
-				- Normal approximation (<a href= "https://drive.google.com/file/d/1PaFg35YCpl5qehj-ccrnIYgC3yhWwnln/view?usp=drive_link">video</a> 1m)<br>
-				- Paired t-test (<a href= "https://drive.google.com/file/d/1ddu4GFZRcQto7Lm0jIqu5wFLk6kUe1WH/view?usp=drive_link">video</a> 3m)<br>
-				- McNemar's test (<a href= "https://drive.google.com/file/d/1GI_B-zxtX8PH3G7ouXwCUmNWxiSXEi-t/view?usp=sharing">video</a> 3.5m)<br>
-				- K-fold CV paired t-test (<a href= "https://drive.google.com/file/d/1GPHGwvAZ-buyNsGQkTVwE6_la8Ss9EkK/view?usp=drive_link">video</a> 3m)<br>
-				- Anova  (<a href= "https://drive.google.com/file/d/1ZGLrN-MQLXKTElIovdak0Rnp-9aRm3D0/view?usp=drive_link">video</a> 13.5m)<br>
-				- Post-hoc tests (<a href= "https://drive.google.com/file/d/1-OJsNnIcM9I5GuQ4PiKUXLDirIV0yMpH/view?usp=sharing">video</a> 9m)<br>
+				- 1. Introduction (<a href= "https://drive.google.com/file/d/1TJmhKEijXlM5b4JndiJl8xFUjgSW1wDF/view?usp=drive_link">video</a> 2m)<br>
+				- 2. Algorithm preference (<a href="https://drive.google.com/file/d/1oOk5MQkHn32EjXCkalcpMaNsQrbwK2Dg/view?usp=drive_link">video</a> 8m)<br>
+				- 3. Factors and response (<a href= "https://drive.google.com/file/d/1p5hJFJ-cH8IuD5bozZubYpQKWdzgyFNx/view?usp=drive_link">video</a> 6.5m)<br>
+				- 4. Strategies of experimentation (<a href= "https://drive.google.com/file/d/1Sjlk2Xzb8FwZjx1eonIxK9rI6tX-xCGM/view?usp=drive_link">video</a> 12m)<br>
+				- 5. ML experiments (<a href= "https://drive.google.com/file/d/1iAA74lK3blf_fkyTwulBTxP0AqYovAFG/view?usp=drive_link">video</a> 2m)<br>
+				- 6. Cross-validation (<a href= "https://drive.google.com/file/d/1uRGeyjDDEhBfCDjDHdRjHyWIQNr3-CEb/view?usp=drive_link">video</a> 18.5m)<br>
+				- 7. Bootstrapping (<a href= "https://drive.google.com/file/d/1dxONR6VjQwSE4AfpRF9CSzk6grV3iyI7/view?usp=drive_link">video</a> 15m)<br>
+				- 8. Performance measures (<a href= "https://drive.google.com/file/d/1EmzFCQFoYo_h1u1erGX7UxwcZb_Jy5DL/view?usp=drive_link">video</a> 9m)<br>
+				- 9. ROC curve (<a href= "https://drive.google.com/file/d/1QuvxrKJ2OKp0H-2UEXVH-HpmdINxGm_k/view?usp=drive_link">video</a> 24m)<br>
+				- 10. Precision and recall (<a href= "https://drive.google.com/file/d/1TzIVXYAb5t__TRlrLa2lChbe2IhjaeE7/view?usp=drive_link">video</a> 10m)<br>
+				- 11. Interval estimation (<a href= "https://drive.google.com/file/d/1GXNklOo3K898CHTLBRNyGaGjPHiXbg8x/view?usp=drive_link">video</a> 14m)<br>
+				- 12. Hypothesis testing (<a href= "https://drive.google.com/file/d/16IkOIw4dT5cfzrXUR6RqZXRVfXd7Lb2O/view?usp=drive_link">video</a> 23.5m)<br>
+				- 13. Error types (<a href= "https://drive.google.com/file/d/16M8uvffsPSWadmQcbkTynreUGGl13SUD/view?usp=drive_link">video</a> 8.5m)<br>
+				- 14. Statistics (<a href= "https://drive.google.com/file/d/15RedoU1S3m5g_38w9u0ip7jLcUYZlKED/view?usp=drive_link">video</a> 2m)<br>
+				- 15. Binomial tests (<a href= "https://drive.google.com/file/d/1rugJyAf-BDzkerRMvBZa-s7oCFDbvMwy/view?usp=drive_link">video</a> 2m)<br>
+				- 16. Normal approximation (<a href= "https://drive.google.com/file/d/1PaFg35YCpl5qehj-ccrnIYgC3yhWwnln/view?usp=drive_link">video</a> 1m)<br>
+				- 17. Paired t-test (<a href= "https://drive.google.com/file/d/1ddu4GFZRcQto7Lm0jIqu5wFLk6kUe1WH/view?usp=drive_link">video</a> 3m)<br>
+				- 18. McNemar's test (<a href= "https://drive.google.com/file/d/1GI_B-zxtX8PH3G7ouXwCUmNWxiSXEi-t/view?usp=sharing">video</a> 3.5m)<br>
+				- 19. K-fold CV paired t-test (<a href= "https://drive.google.com/file/d/1GPHGwvAZ-buyNsGQkTVwE6_la8Ss9EkK/view?usp=drive_link">video</a> 3m)<br>
+				- 20. Anova  (<a href= "https://drive.google.com/file/d/1ZGLrN-MQLXKTElIovdak0Rnp-9aRm3D0/view?usp=drive_link">video</a> 13.5m)<br>
+				- 21. Post-hoc tests (<a href= "https://drive.google.com/file/d/1-OJsNnIcM9I5GuQ4PiKUXLDirIV0yMpH/view?usp=sharing">video</a> 9m)<br>
 				<strong>Reading material and resources</strong><br>
 				[Alp14] Chap 19 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap19.pdf">slides</a>) <br>
 			</td>
@@ -93,10 +93,19 @@ image:
 			<td>2.1 Bayesian decision theory</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
-				(<a href= "https://drive.google.com/file/d/16WxxLNWdoJ6Elaryr5bVn1zn8L5Ud1u7/view?usp=sharing">video 1</a>)
-				(<a href= "https://drive.google.com/open?id=1q6uubSfsCtuDATCuuIdqWSZCmxwn657f">video 2</a>)<br>
+				- 1. Probability and inference (<a href= "https://drive.google.com/file/d/1Z-n3pau0KJ3uqnwbLFbIYVLSDdHJrJhn/view?usp=drive_link">video </a>8.5m)<br>
+				- 2. Example MLE derivation (<a href= "https://drive.google.com/file/d/19c8u_geCyJCsNtnbHLwSSwDrpqPlCYZ5/view?usp=drive_link">video </a>)18m<br>
+				- 3. Classification (<a href= "https://drive.google.com/file/d/1729P3V7E4-agcZGNDZIoN3Ljeewrk9Uq/view?usp=drive_link">video </a>4m)<br>
+				- 4. Bayes' rule (<a href= "https://drive.google.com/file/d/1h2FUwJp14c3L6_Q-s2i8NX2Vw30_km-M/view?usp=drive_link">video </a>13m)<br>
+				- 5. Bayes' rule K > 2 (<a href= "https://drive.google.com/file/d/1woED-SAZk9HtrXHZaMAp_sqADhXf3x8B/view?usp=drive_link">video </a>1m)<br>
+				- 6. Losses and risks (<a href= "https://drive.google.com/file/d/15Mev07iFIxYKmgh17TpNZadXx8r1ZuGB/view?usp=drive_link">video </a>7.5m)<br>
+				- 7. 0/1 loss (<a href= "https://drive.google.com/file/d/1rMX0wAO_ycuGtyTTIF3I_hQOk6apflvU/view?usp=drive_link">video </a>10m)<br>
+				- 8. Rejection (<a href= "https://drive.google.com/file/d/1W-7kKluAyKFOGrTBtPb99tEgAsnM-EQq/view?usp=drive_link">video </a>18.5m)<br>
+				- 9. Different losses (<a href= "https://drive.google.com/file/d/19B4KeRlfp8C63m87z2cFefowEudzqc3l/view?usp=drive_link">video </a>8.5m)<br>
+				- 10. Discriminant functions (<a href= "https://drive.google.com/file/d/1Mww1XnU1MgyFUifAQktSPBhYcpPvekpr/view?usp=drive_link">video </a>9m)<br>
+				- 11. K=2 classes (<a href= "https://drive.google.com/file/d/1QoYcXgtymBUtawM4aUaQxlosb25jdkrW/view?usp=drive_link">video </a>4m)<br>
 				<strong>Reading material and resources</strong><br>
-				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>) (<a href= "https://drive.google.com/file/d/1q5KSTW6WiJjcWMLEOrvRys2WTD7HneWh/view?usp=sharing">annotated slides</a>)<br>
+				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>)<br>
 			</td>
 			<td>
 				<a href= "problems3.pdf">Practice problems 3</a><br>
@@ -107,8 +116,13 @@ image:
 			<td>2.2 Parametric estimation</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
-				(<a href= "https://drive.google.com/file/d/1q6uubSfsCtuDATCuuIdqWSZCmxwn657f/view?t=2964">video 1</a>)
-				(<a href= "https://drive.google.com/file/d/1myrajgABC6pbuw-CXFH2lIQIBVNVLFfn/view">video 2</a>)<br>
+				- 1. Parametric estimation (<a href= "https://drive.google.com/file/d/18b1FCVfiiThplQEAvYhyEjHGjqOj5zqv/view?usp=drive_link">video </a>1m)<br>
+				- 2. Maximum likelihood estimation (<a href= "https://drive.google.com/file/d/1x80A5KWbpjDV6oJ02lwcPSMaB4kUU3bn/view?usp=drive_link">video </a>2m)<br>
+				- 3. Bernoulli/multinomial (<a href= "https://drive.google.com/file/d/1PRjwY8CONAfLbJgs7qVlCSazyVX3IKbb/view?usp=drive_link">video </a>3m)<br>
+				- 4. Gaussian distribution (<a href= "https://drive.google.com/file/d/1lfedey_NL1SLmfqv9LAzCVBD9QYDWmVJ/view?usp=drive_link">video </a>1.5m)<br>
+				- 5. Bias and variance (<a href= "https://drive.google.com/file/d/10IHz9q5bHIOWFqkCA_M4mQjUWHZWQP46/view?usp=drive_link">video </a>5.5m)<br>
+				- 6. Bias and variance example (<a href= "https://drive.google.com/file/d/1EGKVhsPsMIDUyUDMd_xev-BCLspNc7R1/view?usp=drive_link">video </a>31m)<br>				
+				- Second part (<a href= "https://drive.google.com/file/d/1myrajgABC6pbuw-CXFH2lIQIBVNVLFfn/view">video </a>)<br>
 				<strong>Reading material and resources</strong><br>
 				[Alp14] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
 				Bias and variance (<a href= "https://colab.research.google.com/drive/12Oo06Ge2ly-9WI3ifj2t9HyZJrioLoy7?usp=sharing">Jupyter notebook</a>)<br>
