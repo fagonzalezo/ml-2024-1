@@ -94,7 +94,7 @@ image:
 			<td>
 				<strong>Asynchronous class</strong> <br>
 				- 1. Probability and inference (<a href= "https://drive.google.com/file/d/1Z-n3pau0KJ3uqnwbLFbIYVLSDdHJrJhn/view?usp=drive_link">video </a>8.5m)<br>
-				- 2. Example MLE derivation (<a href= "https://drive.google.com/file/d/19c8u_geCyJCsNtnbHLwSSwDrpqPlCYZ5/view?usp=drive_link">video </a>)18m<br>
+				- 2. Example MLE derivation (<a href= "https://drive.google.com/file/d/19c8u_geCyJCsNtnbHLwSSwDrpqPlCYZ5/view?usp=drive_link">video </a>18m)<br>
 				- 3. Classification (<a href= "https://drive.google.com/file/d/1729P3V7E4-agcZGNDZIoN3Ljeewrk9Uq/view?usp=drive_link">video </a>4m)<br>
 				- 4. Bayes' rule (<a href= "https://drive.google.com/file/d/1h2FUwJp14c3L6_Q-s2i8NX2Vw30_km-M/view?usp=drive_link">video </a>13m)<br>
 				- 5. Bayes' rule K > 2 (<a href= "https://drive.google.com/file/d/1woED-SAZk9HtrXHZaMAp_sqADhXf3x8B/view?usp=drive_link">video </a>1m)<br>
@@ -122,7 +122,6 @@ image:
 				- 4. Gaussian distribution (<a href= "https://drive.google.com/file/d/1lfedey_NL1SLmfqv9LAzCVBD9QYDWmVJ/view?usp=drive_link">video </a>1.5m)<br>
 				- 5. Bias and variance (<a href= "https://drive.google.com/file/d/10IHz9q5bHIOWFqkCA_M4mQjUWHZWQP46/view?usp=drive_link">video </a>5.5m)<br>
 				- 6. Bias and variance example (<a href= "https://drive.google.com/file/d/1EGKVhsPsMIDUyUDMd_xev-BCLspNc7R1/view?usp=drive_link">video </a>31m)<br>				
-				- Second part (<a href= "https://drive.google.com/file/d/1myrajgABC6pbuw-CXFH2lIQIBVNVLFfn/view">video </a>)<br>
 				<strong>Reading material and resources</strong><br>
 				[Alp14] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
 				Bias and variance (<a href= "https://colab.research.google.com/drive/12Oo06Ge2ly-9WI3ifj2t9HyZJrioLoy7?usp=sharing">Jupyter notebook</a>)<br>
