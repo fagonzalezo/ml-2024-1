@@ -135,8 +135,25 @@ image:
 			<td>2.1 Kernel methods</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
-				(<a href= "https://drive.google.com/file/d/19cqiLcSJJOYFwDqGr-0HwfkbGfDTEpI5/view?t=10">video 1</a>)
-				(<a href= "https://drive.google.com/file/d/1yHQTsOX_ImwtD2YCocENVaPj05MVU0Gm/view?t=28">video 2</a>)<br>
+				- 1. Introduction (<a href= "https://drive.google.com/file/d/139YJ9K3rgre4YtitSnz79o6u_ax33XLP/view?usp=drive_link">video </a>7.5m)<br>
+				- 2. Input and feature space (<a href= "https://drive.google.com/file/d/1fGXJfSa0bdlLItZfgCZ9VbrtPf4Vd8KF/view?usp=drive_link">video </a>9m)<br>
+				- 3. The kernel trick (<a href= "https://drive.google.com/file/d/11lMuqohUDqAAR5Lfiq64JB1CWhemU__f/view?usp=drive_link">video </a>12m)<br>
+				- 4. Kernel induced feature space (<a href= "https://drive.google.com/file/d/1tQHQfiUZGuMphnZglAcdICb3SG_u6hLV/view?usp=drive_link">video </a>8m)<br>
+				- 5. Kernel approach to ML (<a href= "https://drive.google.com/file/d/1tuNXid7uhn7No1AXHUxqPT-PsdvudkwU/view?usp=drive_link">video </a>6.5m)<br>
+				- 6. Kernel functions (<a href= "https://drive.google.com/file/d/1okYsj7lQMp5UwTz7ZErkkU4auHiQKSb3/view?usp=drive_link">video </a>12m)<br>
+				- 7. Embeddings and kernels (<a href= "https://drive.google.com/file/d/1VEHbUk_FWrRy3SMCe_8K7BaeTQx8O-xL/view?usp=drive_link">video </a>9.5m)<br>
+				- 8. Visualizing kernel induced spaces (<a href= "https://drive.google.com/file/d/1TUfFUx0rIP4Zd_K49iEa05kKWi256z0a/view?usp=drive_link">video </a>16.5m)<br>
+				- 9. Kernel algorithms (<a href= "https://drive.google.com/file/d/1LVAIyJeWaS51e4-Ga7h2peNYvhUNUCYt/view?usp=drive_link">video </a>1m)<br>
+				- 10. Example: linear regression (<a href= "https://drive.google.com/file/d/1f4vLZhkUO0nQ6AnzCtdr3GkEr6Rc5BjK/view?usp=drive_link">video </a>9.5m)<br>
+				- 11. Solution using optimization (<a href= "https://drive.google.com/file/d/1QfiqF_9cnUJSEJVOjpJF_bw2FTKLBq3Y/view?usp=drive_link">video </a>4.5m)<br>
+				- 12. Linear regression as a kernel method (<a href= "https://drive.google.com/file/d/1uCUiZ5qduMup7z-AgA3Gl_NchWpLKzgw/view?usp=drive_link">video </a>7m)<br>
+				- 13. Dual linear regression (<a href= "https://drive.google.com/file/d/11ESQbQ8n6ca11W-mBigRU_5mX8Y80JaS/view?usp=drive_link">video </a>8m)<br>
+				- 14. Solution of dual linear regression (<a href= "https://drive.google.com/file/d/1s2TBFlDq-FAi8AjgJknzO-ceVjk4HXCy/view?usp=drive_link">video </a>10m)<br>
+				- 15. Coding primal linear regression (<a href= "https://drive.google.com/file/d/1ioxgi5_K_1C9mAUyHb-nAtu7NKwWMDor/view?usp=drive_link">video </a>8m)<br>
+				- 16. Regularization (<a href= "https://drive.google.com/file/d/1y4c_kOYmNQekvqLGBmu-dV-Jiyh_G_A-/view?usp=drive_link">video </a>9m)<br>
+				- 17. Ridge regression (<a href= "https://drive.google.com/file/d/1Q2ZZoXtbrt3XqOfNxhqkTn-B5J0YAWcQ/view?usp=drive_link">video </a>5m)<br>
+				- 18. Ridge regression as a kernel method (<a href= "https://drive.google.com/file/d/1RmAhofZ_ItsC2WTp4zW1zG5x-r7lvHY5/view?usp=drive_link">video </a>8m)<br>
+				- 19. Different kernel functions (<a href= "https://drive.google.com/file/d/1DtaR4ak6BdsHpquazEPE5rVQ_lJHGja5/view?usp=drive_link">video </a>19.5m)<br>								
 				<strong>Reading material and resources</strong><br>
 				Introduction to kernel methods (<a href= "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf">slides</a>) <br>
 				[Alp14] Chap 13 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf">slides</a>)<br>
