@@ -161,6 +161,7 @@ image:
 			</td>
 			<td>
 				<a href= "problems5.pdf">Practice problems 5</a>
+				<a href= "assign1.pdf">Assignment 1</a>
 			</td>
 		</tr>
 		<tr>
