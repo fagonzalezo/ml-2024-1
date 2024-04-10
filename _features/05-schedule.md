@@ -165,7 +165,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 1</td>
+			<td>Apr 8</td>
 			<td>2.2 Support vector machines</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
@@ -185,7 +185,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 8</td>
+			<td>Apr 15</td>
 			<td>
 				4.1 Neural networks 
 			</td>
@@ -205,7 +205,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 15</td>
+			<td>Apr 22</td>
 			<td>
 			 	4.2 Differentiable programming <br>
 			</td>
@@ -222,7 +222,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 22</td>
+			<td>Apr 29</td>
 			<td>
 				4.3 Deep learning <br>
 			</td>
@@ -243,7 +243,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 29</td>
+			<td>May 6</td>
 			<td>
 				5 Non-parametric estimation
 			</td>
@@ -253,7 +253,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 6</td>
+			<td>May 13</td>
 			<td>
 				6 metric learning
 			</td>
@@ -263,7 +263,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 13</td>
+			<td>May 20</td>
 			<td>
 				7.1 Variational inference <br>
 				7.2 Generative models
@@ -277,7 +277,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 20</td>
+			<td>May 27</td>
 			<td>
 				8 Kernel density matrices
 			</td>
