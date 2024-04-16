@@ -191,13 +191,19 @@ image:
 			</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
-				(<a href= "https://drive.google.com/file/d/1wAR3ApxcYAVF2TmEc6-gVTJIvLKotucr/view?t=100">video</a>)<br>
+				- 1. History: the perceptron (<a href= "https://drive.google.com/file/d/1KbSO2sZYvjk7G4W3fg8wN6FPOVdWqaVI/view?usp=drive_link">video </a>3m)<br>
+				- 2. History: artificial neuron (<a href= "https://drive.google.com/file/d/1PH_4yjUbWvxhCBBDhXQnk_2frFrMDpOP/view?usp=drive_link">video </a>4m)<br>
+				- 3. History: NN criticism (<a href= "https://drive.google.com/file/d/1V7eaYzn8JEhh_lfVMGNTZ9oNTJ-tD3q1/view?usp=drive_link">video </a>3.5m)<br>
+				- 4. History: backpropagation (<a href= "https://drive.google.com/file/d/121o9ZTFDqj6BzsAEJ5FS_FUiBTjAq68o/view?usp=drive_link">video </a>6.5m)<br>
+				- 5. History: SVM's and kernels (<a href= "https://drive.google.com/file/d/150OJuw-ih4bol4s4SpfRpfUH-D5CZPgX/view?usp=drive_link">video </a>11.5m)<br>
+				- 6. History: beginning of deep learning (<a href= "https://drive.google.com/file/d/1EJBuHcU5Km9zxskf6HYAotQuwjm1xgca/view?usp=drive_link">video </a>3m)<br>
+				- 7. History: UNNeuro (<a href= "https://drive.google.com/file/d/1DaFHF65AJrrWq4EFwIqoTV2c7roU9ScS/view?usp=drive_link">video </a>3m)<br>
+				- 8. Practical example (<a href= "https://drive.google.com/file/d/1YADyMzll6emF9taXvl7Tlz0d8f9pIKAY/view?usp=drive_link">video </a>28.5m)<br>
+				- 9. Backpropagation derivation (<a href= "https://drive.google.com/file/d/1tBJqRYS8UVF__5K29GlE0NYuCFwCPYfJ/view?t=34">video </a>)<br>
 				<strong>Reading material and resources</strong><br>
 				Neural networks, Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
 				[Alp14] Chap 11 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap11.pdf">slides</a>)<br>
-				Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">Jupyter notebook</a>)<br>
-				(<a href= "https://drive.google.com/file/d/1tBJqRYS8UVF__5K29GlE0NYuCFwCPYfJ/view?t=34">video</a>)<br>
-				[Alp14] Chap 11 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap11.pdf">slides</a>)<br>
+				Quick and dirty introduction to neural networks (<a href= "https://colab.research.google.com/drive/1EoqB3Elk41UG-PmGGPhpStSeTLHytmlQ?usp=sharing">Colab notebook</a>)<br>
 				<a href= "https://fagonzalezo.github.io/ml-2018-1/backpropagation.pdf">Backpropagation derivation handout</a>
 			</td>
 			<td>
