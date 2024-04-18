@@ -181,7 +181,6 @@ image:
 			</td>
 			<td>
 				<a href= "problems6.pdf">Practice problems 6</a><br>
-				<!-- <a href= "assign2.pdf">Assignment 2</a> -->
 			</td>
 		</tr>
 		<tr>
@@ -208,6 +207,7 @@ image:
 			</td>
 			<td>
 				<a href= "https://colab.research.google.com/drive/1dMDyxrmjFmFyKM--29OGwMBA7SXffU6w?usp=sharing">Practice problems 7</a>
+				<a href= "assign2.pdf">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
