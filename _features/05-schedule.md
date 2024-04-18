@@ -198,7 +198,7 @@ image:
 				- 6. History: beginning of deep learning (<a href= "https://drive.google.com/file/d/1EJBuHcU5Km9zxskf6HYAotQuwjm1xgca/view?usp=drive_link">video </a>3m)<br>
 				- 7. History: UNNeuro (<a href= "https://drive.google.com/file/d/1DaFHF65AJrrWq4EFwIqoTV2c7roU9ScS/view?usp=drive_link">video </a>3m)<br>
 				- 8. Practical example (<a href= "https://drive.google.com/file/d/1YADyMzll6emF9taXvl7Tlz0d8f9pIKAY/view?usp=drive_link">video </a>28.5m)<br>
-				- 9. Backpropagation derivation (<a href= "https://drive.google.com/file/d/1tBJqRYS8UVF__5K29GlE0NYuCFwCPYfJ/view?t=34">video </a>)<br>
+				- 9. Backpropagation derivation (<a href= "https://drive.google.com/file/d/1Q-UaO5qWOYAlCQcqXuo50REXvVyhMY8E/view?usp=sharing">video </a>)45m<br>
 				<strong>Reading material and resources</strong><br>
 				Neural networks, Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
 				[Alp14] Chap 11 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap11.pdf">slides</a>)<br>
