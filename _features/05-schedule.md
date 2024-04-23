@@ -237,17 +237,18 @@ image:
 			</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
-				(<a href= "https://drive.google.com/file/d/17qsyxm1D4KE9Ztm2nivrpDTvO6xbeV2K/view?t=10">video 1</a>, <a href= "https://drive.google.com/file/d/1DOmG7CDX7vrRM9jZDBL7w0hnzR6nFdaB/view?t=49">video 2</a>)<br>
+				- 1. Introduction to deep learning  (<a href= "https://drive.google.com/file/d/17qsyxm1D4KE9Ztm2nivrpDTvO6xbeV2K/view?t=10">video)</a><br>
+				- 2. Convolutional neural networks (<a href= "https://drive.google.com/file/d/1xH_PHnbOMxCtRaXH6YGCusxk_U6c99rG/view?t=30">video </a>)<br>
+				- 3. CNN in Keras example (<a href= "https://drive.google.com/file/d/1Ekqk1AALMyIp1zt2Fh8mIwywz6T1BoPR/view?t=180">video </a>)<br>
 				<strong>Reading material and resources</strong><br>
 				Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
-				[GBC2016] Chap 6 <br>
-				(<a href= "https://drive.google.com/file/d/1xH_PHnbOMxCtRaXH6YGCusxk_U6c99rG/view?t=30">video 1</a>, <a href= "https://drive.google.com/file/d/1Ekqk1AALMyIp1zt2Fh8mIwywz6T1BoPR/view?t=180">video 2</a>)(<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
+				[GBC2016] (<a href= "https://www.deeplearningbook.org/contents/convnets.html">Chap 9</a>)<br>
 				CNN for image classification in Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
 				<a href= "https://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS demos</a><br>
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
 			</td>
 			<td>
-				<a href= "problems8.pdf">Practice problems 8</a><br>
+				<a href= "problems9.pdf">Practice problems 9</a>
 				<!-- <a href= "assign3.pdf">Assignment 3</a><br> -->
 			</td>
 		</tr>
