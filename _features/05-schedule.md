@@ -217,6 +217,9 @@ image:
 			</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
+				- 1. Deep learning frameworks (<a href= "https://drive.google.com/file/d/1pmlbx1PqDObzCRQZrI1nXpnjV-PE8oh7/view?usp=sharing">video </a>22.5m)<br>
+				- 2. Tensorflow example (<a href= "https://drive.google.com/file/d/1BHfYr1Ujbk-WPvL1yONRdM812PgF8vJN/view?usp=sharing">video </a>35m)<br>
+				- 3. Keras example (<a href= "https://drive.google.com/file/d/170am9FMSTzMkkd2TTGE8wyjAcghWCOt-/view?usp=sharing">video </a>34.5m)<br>
 				<strong>Reading material and resources</strong><br>
 				Deep learning frameworks (<a href= "https://fagonzalezo.github.io/ml-2020-1/ML%20Deep%20Learning%20Frameworks.pdf">slides</a>)<br>
 				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
