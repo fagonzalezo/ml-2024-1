@@ -206,7 +206,7 @@ image:
 				<a href= "https://fagonzalezo.github.io/ml-2018-1/backpropagation.pdf">Backpropagation derivation handout</a>
 			</td>
 			<td>
-				<a href= "https://colab.research.google.com/drive/1dMDyxrmjFmFyKM--29OGwMBA7SXffU6w?usp=sharing">Practice problems 7</a>
+				<a href= "https://colab.research.google.com/drive/1dMDyxrmjFmFyKM--29OGwMBA7SXffU6w?usp=sharing">Practice problems 7</a><br>
 				<a href= "assign2.pdf">Assignment 2</a>
 			</td>
 		</tr>
@@ -248,7 +248,7 @@ image:
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
 			</td>
 			<td>
-				<a href= "problems9.pdf">Practice problems 9</a>
+				<a href= "problems9.pdf">Practice problems 9</a><br>
 				<a href= "https://www.dropbox.com/request/SMrO1Oz436dxhmNM5PMa">Project proposal</a>: 3 persons per group, maximum 2 pages describing problem, objectives and method (15/05/23)
 				<!-- <a href= "assign3.pdf">Assignment 3</a><br> -->
 			</td>
