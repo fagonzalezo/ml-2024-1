@@ -231,7 +231,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 29</td>
+			<td>May 6</td>
 			<td>
 				4.3 Deep learning <br>
 			</td>
@@ -249,17 +249,8 @@ image:
 			</td>
 			<td>
 				<a href= "problems9.pdf">Practice problems 9</a>
+				<a href= "https://www.dropbox.com/request/SMrO1Oz436dxhmNM5PMa">Project proposal</a>: 3 persons per group, maximum 2 pages describing problem, objectives and method (15/05/23)
 				<!-- <a href= "assign3.pdf">Assignment 3</a><br> -->
-			</td>
-		</tr>
-		<tr>
-			<td>May 6</td>
-			<td>
-				5 Non-parametric estimation
-			</td>
-			<td>
-			</td>
-			<td>
 			</td>
 		</tr>
 		<tr>
@@ -275,6 +266,16 @@ image:
 		<tr>
 			<td>May 20</td>
 			<td>
+				5 Non-parametric estimation
+			</td>
+			<td>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>May 27</td>
+			<td>
 				7.1 Variational inference <br>
 				7.2 Generative models
 			</td>
@@ -287,7 +288,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 27</td>
+			<td>Jun 3</td>
 			<td>
 				8 Kernel density matrices
 			</td>
@@ -297,7 +298,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 27</td>
+			<td>Jun 10</td>
 			<td>Final Project</td>
 			<td>
 			</td>
