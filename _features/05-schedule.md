@@ -237,7 +237,7 @@ image:
 			</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
-				- 1. Introduction to deep learning  (<a href= "https://drive.google.com/file/d/17qsyxm1D4KE9Ztm2nivrpDTvO6xbeV2K/view?t=10">video)</a><br>
+				- 1. Introduction to deep learning  (<a href= "https://drive.google.com/file/d/17qsyxm1D4KE9Ztm2nivrpDTvO6xbeV2K/view?t=10">video</a>)<br>
 				- 2. Convolutional neural networks (<a href= "https://drive.google.com/file/d/1xH_PHnbOMxCtRaXH6YGCusxk_U6c99rG/view?t=30">video </a>)<br>
 				- 3. CNN in Keras example (<a href= "https://drive.google.com/file/d/1Ekqk1AALMyIp1zt2Fh8mIwywz6T1BoPR/view?t=180">video </a>)<br>
 				<strong>Reading material and resources</strong><br>
@@ -254,7 +254,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 13</td>
+			<td>May 20</td>
 			<td>
 				6 metric learning
 			</td>
@@ -264,7 +264,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 20</td>
+			<td>May 27</td>
 			<td>
 				5 Non-parametric estimation
 			</td>
@@ -274,7 +274,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 27</td>
+			<td>Jun 3</td>
 			<td>
 				7.1 Variational inference <br>
 				7.2 Generative models
@@ -288,7 +288,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 3</td>
+			<td>Jun 10</td>
 			<td>
 				8 Kernel density matrices
 			</td>
@@ -298,7 +298,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 10</td>
+			<td>Jun 17</td>
 			<td>Final Project</td>
 			<td>
 			</td>
