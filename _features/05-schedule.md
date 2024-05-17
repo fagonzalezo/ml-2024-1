@@ -160,7 +160,7 @@ image:
 				[SC04] Chap 1 and 2<br>
 			</td>
 			<td>
-				<a href= "problems5.pdf">Practice problems 5</a>
+				<a href= "problems5.pdf">Practice problems 5</a><br>
 				<a href= "assign1.pdf">Assignment 1</a>
 			</td>
 		</tr>
@@ -298,12 +298,12 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 17</td>
+			<td>Jun 19</td>
 			<td>Final Project</td>
 			<td>
 			</td>
 			<td>
-				<!-- <a href= "project.pdf">Final project</a> -->
+				<a href= "project.pdf">Final project</a>
 			</td>
 		</tr>
 	</tbody>
