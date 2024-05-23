@@ -44,11 +44,9 @@ image:
 
 6 **Metric learning**
 
-6.1 Linear metric learning
+6.1 Deep metric learning
 
-6.2 Non-linear metric learning using kernels
-
-6.3 Deep metric learning
+6.2 Self-supervised Contrastive learning
 
 7 **Probabilistic deep learning**
 

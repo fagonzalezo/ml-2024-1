@@ -250,17 +250,22 @@ image:
 			<td>
 				<a href= "problems9.pdf">Practice problems 9</a><br>
 				<a href= "https://www.dropbox.com/request/SMrO1Oz436dxhmNM5PMa">Project proposal</a>: 3 persons per group, pdf with maximum 2 pages describing problem, objectives and method (15/05/24)
-				<!-- <a href= "assign3.pdf">Assignment 3</a><br> -->
 			</td>
 		</tr>
 		<tr>
 			<td>May 20</td>
 			<td>
-				6 metric learning
+				6.1 Deep metric learning <br>
+				6.2 Self-supervised Contrastive learning
 			</td>
 			<td>
+				<strong>Synchronous class</strong><br>
+				<strong>Reading material and resources</strong><br>
+				 - <a href= "https://m2dsupsdlclass.github.io/lectures-labs/slides/09_imbalanced_classif_metric_learning/index.html#1">Class imbalance and Metric Learning slides</a>,  Master Year 2 Data Science IP-Paris<br>
+				 - <a href= "https://web.eecs.umich.edu/~justincj/slides/eecs498/WI2022/598_WI2022_lecture22.pdf">Self-supervised Learning slides</a>,  EECS498.008/598.008 Deep Learning for Computer Vision, University of Michigan, Winter 2022<br>
 			</td>
 			<td>
+				<a href= "assign3.pdf">Assignment 3</a><br>
 			</td>
 		</tr>
 		<tr>
