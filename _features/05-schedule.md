@@ -291,7 +291,7 @@ image:
 			<td>
 				<strong>Reading material and resources</strong><br>
 				- González, F. A., Ramos-Pollán, R., & Gallego-Mejia, J. A. <a href= "https://arxiv.org/abs/2305.18204">Kernel Density Matrices for Probabilistic Deep Learning</a>, arXiv: 2305.18204.<br>
-				 - An Introduction to Kernel Density Matrices (<a href= "https://github.com/fagonzalezo/kdm/blob/main/kdm_introduction.ipynb">Class imbalance and Metric Learning slides</a>)<br>
+				 - An Introduction to Kernel Density Matrices (<a href= "https://github.com/fagonzalezo/kdm/blob/main/kdm_introduction.ipynb">notebook</a>)<br>
 				 - Kernel Density Matrices Library <a href= "https://github.com/fagonzalezo/kdm">https://github.com/fagonzalezo/kdm</a><br>
 			</td>
 			<td>
